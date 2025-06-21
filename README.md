@@ -49,10 +49,6 @@ CNN-powered patient triage system with X-ray classification accuracy >98%.
 ### 📈 GitHub Stats & Widgets
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-iiita063&theme=highcontrast" />
-  <br/>
-</p>
-<p align="center">
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-iiita063&theme=highcontrast" alt="Streak Stats" />
   <br/>
