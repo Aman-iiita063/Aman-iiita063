@@ -61,7 +61,13 @@ CNN-powered patient triage system with X-ray classification accuracy >98%.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-iiita063&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
   <br/>
 
-  <!-- Contribution Snake -->
+</p>
+
+
+---
+
+
+<p>
   <img src="https://raw.githubusercontent.com/Aman-iiita063/Aman-iiita063/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 
   
@@ -70,6 +76,7 @@ CNN-powered patient triage system with X-ray classification accuracy >98%.
 
 
 ---
+
 
 ### 📬 Connect With Me
 
