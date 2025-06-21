@@ -51,10 +51,27 @@ CNN-powered patient triage system with X-ray classification accuracy >98%.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-iiita063&theme=highcontrast" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman-iiita063&theme=radical&margin-w=15&no-frame=true" />
+</p>
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-iiita063&theme=highcontrast" alt="Streak Stats" />
   <br/>
+
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-iiita063&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-iiita063&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+  <br/>
+
+  <!-- Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/Aman-iiita063/Aman-iiita063/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+
+  
   <img src="https://komarev.com/ghpvc/?username=Aman-iiita063&style=flat-square&color=brightgreen" />
 </p>
+
 
 ---
 
