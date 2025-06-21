@@ -52,10 +52,11 @@ CNN-powered patient triage system with X-ray classification accuracy >98%.
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-iiita063&theme=highcontrast" alt="GitHub Streak" />
   <br/>
-
+  <br/>
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Aman-iiita063&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
+  <br>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-iiita063&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
@@ -72,6 +73,17 @@ CNN-powered patient triage system with X-ray classification accuracy >98%.
 
 
 ---
+
+### 💻 Languages I Love Working With
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📊 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-iiita063&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
+
 
 
 ### 📬 Connect With Me
