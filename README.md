@@ -46,14 +46,14 @@ CNN-powered patient triage system with X-ray classification accuracy >98%.
 
 ---
 
-### 📈 GitHub Stats & Widgets
+### 📈 GitHub Stats & Insights
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-iiita063&theme=highcontrast" alt="Streak Stats" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-iiita063&theme=highcontrast" alt="GitHub Streak" />
   <br/>
 
-  <!-- GitHub Overall Stats -->
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Aman-iiita063&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
 
@@ -61,18 +61,14 @@ CNN-powered patient triage system with X-ray classification accuracy >98%.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-iiita063&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
   <br/>
 
-</p>
-
-
----
-
-
-<p>
+  <!-- Contribution Snake (Make sure the action generates the file) -->
   <img src="https://raw.githubusercontent.com/Aman-iiita063/Aman-iiita063/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <br/>
 
-  
-  <img src="https://komarev.com/ghpvc/?username=Aman-iiita063&style=flat-square&color=brightgreen" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Aman-iiita063&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
+
 
 
 ---
