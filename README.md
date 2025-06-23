@@ -90,12 +90,3 @@ CNN-powered patient triage system with X-ray classification accuracy >98%.
 
 > 💬 _“Combining the logic of code with the precision of circuits — I solve real-world problems across stacks and systems.”_
 
----
-
-Would you like me to:
-
-- Generate this into a downloadable `README.md` file for your GitHub?
-- Add a **custom header image** like the ones in your screenshots?
-- Build a **portfolio page** with this content too?
-
-Let me know!
