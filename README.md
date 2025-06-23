@@ -6,7 +6,8 @@
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="300"/>
 </p>
 
----
+
+
 
 ### 👨‍💻 About Me
 
@@ -15,7 +16,9 @@
 - 🧠 Background in **ECE**, strong foundation in systems, hardware, and networks
 - 📈 Top performer in coding contests (Codeforces, LeetCode)
 
----
+
+
+
 
 ### 🛠 Tech Stack
 
@@ -31,7 +34,9 @@
 | **Tools & APIs**    | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 | **ECE Tools**       | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![Proteus](https://img.shields.io/badge/Proteus-002244?style=flat-square&logoColor=white&labelColor=002244) |
 
----
+
+
+
 
 ### 🚀 Featured Projects
 
@@ -44,7 +49,9 @@ AI-powered skill tracker that builds personalized learning paths from LeetCode, 
 #### 🔹 [MedicGo](https://huggingface.co/spaces/sartirexd/Medical-Image-Classification)  
 CNN-powered patient triage system with X-ray classification accuracy >98%.
 
----
+
+
+
 
 ### 📈 GitHub Stats & Insights
 
@@ -63,7 +70,7 @@ CNN-powered patient triage system with X-ray classification accuracy >98%.
 
 
 
----
+
 
 ### 💻 Languages I Love Working With
 
@@ -74,6 +81,7 @@ CNN-powered patient triage system with X-ray classification accuracy >98%.
 ### 📊 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-iiita063&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
+
 
 
 
