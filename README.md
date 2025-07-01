@@ -65,8 +65,9 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aman-iiita063/Aman-iiita063/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Aman-iiita063/Aman-iiita063/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
