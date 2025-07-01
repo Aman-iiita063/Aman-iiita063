@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F72C9F&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Aman+Kumar;SDE+%7C+ML+Builder+%7C+ECE+Engineer;I+Love+Backend%2C+Sockets%2C+and+AI" />
+  <img src="https://img.shields.io/badge/Hey%20there%20👋-I'm%20Aman%20Kumar-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/SDE%20|%20ML%20Builder%20|%20ECE%20Engineer-green?style=for-the-badge&logo=python&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Love%20Backend,%20Sockets,%20AI-orange?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-<p align="center">
-  <!-- 🏞 Replace with your banner -->
-  <img src="https://via.placeholder.com/900x200?text=Aman+Kumar+|+SDE+|+ML+Builder+|+ECE+Engineer" alt="Banner" />
-</p>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="300"/>
