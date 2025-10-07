@@ -20,8 +20,8 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Building:** `SmartFleet.AI` & `MedicGo`
-- 🤖 **Specializes in:** ML + Sockets + Scalable Backend Systems
+- 🚀 **Projects:** `Thinkify` & `Raise-it`
+- 🤖 **Specializes in:** FullStack + Sockets + Scalable Backend Systems
 - 🧠 **Background:** ECE | Strong in Systems, Hardware, Networks
 - 🏆 **Coding:** Top ranks on [Codeforces](https://codeforces.com/profile/kr25161) & [LeetCode](https://leetcode.com/kr25161/)
 - 🎯 **Focus:** Real-world AI, scalable infra, and system design
