@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Hey%20there%20👋-I'm%20Aman%20Kumar-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
   <br/>
-  <img src="https://img.shields.io/badge/SDE%20|%20ML%20Builder%20|%20ECE%20Engineer-green?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SDE%20|%20ML%20Builder%20|%20Software%20Engineer-green?style=for-the-badge&logo=python&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Love%20Backend,%20Sockets,%20AI-orange?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
